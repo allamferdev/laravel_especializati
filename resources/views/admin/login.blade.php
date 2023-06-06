@@ -1,3 +1,6 @@
+@extends('layouts.app')
+
+@section('content')
 <h1>Login: </h1>
 
 <form action="">
@@ -8,3 +11,4 @@
     <br>
     <input type="submit" value="Entrar">
 </form>
+@endsection
